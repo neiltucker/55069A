@@ -1,6 +1,6 @@
 *****   55069A-Readme.txt   *****                                                                 					*****
 
-This course uses two setup guides.  55069A-ENU_PowerShellSetup_hv2.pdf for setup on Windows Server 2008 or 55069A-ENU_PowerShellSetup_hv3.pdf for setup on Windows Server 2012 or Windows 8.
+This course uses two setup guides.  55069A-ENU_PowerShellSetup_hv2.pdf for setup on Windows Server 2008 or 55069A-ENU_PowerShellSetup_hv3.pdf for setup on later operating systems that support Hyper-V.
 
 Customized deliveries of 55069A are possible in combination with other PowerShell & SQL Server classes.  
 
@@ -14,17 +14,11 @@ Feedback from trainers and students indicate that many students prefer to focus 
 To automatically configure the components installed in lab 1 and to prepare for lab 2, execute run3.cmd from the A:\ drive of each virtual machine.  Further information on customizing the VMs can be found in the PowerShell setup guide.
 
 
+Licensing:
+The training center or any organization hosting the lab computers for this class are fully responsible for the licensing of all software used in the course and labs. 
+An Azure deployment of the class may make this process easier.
 
-*****   Setup Files   *****
-
-All instructor and setup files are on the Student CD included with the course manual.  If you do not have a hard copy of the manual, these files can be downloaded from Skillpipe using the following directions:
-
-1. Purchase a digital copy of the course from the Courseware Marketplace web-site (Free for MCTs)
-2. From the Courseware Marketplace web-site, click on the Skillpipe link and login to the web-site (http://skillpipe.courseware-marketplace.com)
-3. Click on the option to "read the course online"
-4. Click on the option for "Book Info & Additional Files"
-5. Download all the files in the list presented to create your own Student CD
-
-If there are any questions, please contact the author directly for additional help (neil@neiltucker.biz).
+Updates:
+Updates to class files can be found on GitHub (https://github.com/neiltucker/55069A). 
 
 

@@ -1,4 +1,11 @@
 *****   55069A-Readme.txt   *****                                                                 					*****
+PowerShell for SQL Server Administrators
+
+Updates:
+Setup Files:		https://github.com/neiltucker/55069A 
+Printed Courseware:	http://www.neiltucker.com 
+Online Courseware:	http://www.softwaretutorialservices.com 
+
 
 This course uses two setup guides.  55069A-ENU_PowerShellSetup_hv2.pdf for setup on Windows Server 2008 or 55069A-ENU_PowerShellSetup_hv3.pdf for setup on later operating systems that support Hyper-V.
 
